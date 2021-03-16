@@ -1,0 +1,58 @@
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Anas-pc\Desktop\console apps\Resturant\Resturant\obj\Debug\Resturant.Form2.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.Form2.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.Customer.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.Order.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.Bill.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.Options.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.NewCustomer.resources
+C:\Users\Sherif Elkholy\Desktop\Resturant\Resturant\obj\Debug\Resturant.NewUser.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Bill.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Customer.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Form2.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.NewCustomer.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.NewUser.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Options.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Order.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Hamdy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Bill.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Customer.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Form2.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.NewCustomer.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.NewUser.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Options.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Order.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\Sherif Elkholy\Desktop\المطعم\Resturant\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
